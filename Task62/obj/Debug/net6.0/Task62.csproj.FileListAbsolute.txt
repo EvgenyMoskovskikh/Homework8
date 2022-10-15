@@ -1,0 +1,15 @@
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\bin\Debug\net6.0\Task62.exe
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\bin\Debug\net6.0\Task62.deps.json
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\bin\Debug\net6.0\Task62.runtimeconfig.json
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\bin\Debug\net6.0\Task62.dll
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\bin\Debug\net6.0\Task62.pdb
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\Task62.csproj.AssemblyReference.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\Task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\Task62.AssemblyInfoInputs.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\Task62.AssemblyInfo.cs
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\Task62.csproj.CoreCompileInputs.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\Task62.dll
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\refint\Task62.dll
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\Task62.pdb
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\Task62.genruntimeconfig.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework8\Homework\Task62\obj\Debug\net6.0\ref\Task62.dll
